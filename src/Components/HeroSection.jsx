@@ -43,7 +43,8 @@ export default function HeroSection() {
           <p className="text-lg md:text-xl mb-10 text-gray-300">
             Build powerful trading apps using our rich API ecosystem. Discover, test, and launch with ease.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            
+{/*           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
               href="#explore"
               className="px-6 py-3 rounded-lg text-black bg-[#75ffff] font-semibold hover:bg-[#14262a] hover:text-[#75ffff] border-2 border-[#75ffff] hover:border-[#14262a] transition"
@@ -56,7 +57,8 @@ export default function HeroSection() {
             >
               Get API Key
             </a>
-          </div>
+          </div> */}
+            
         </div>
       </section>
     );
