@@ -44,14 +44,15 @@ export default function HeroSection() {
             Build powerful trading apps using our rich API ecosystem. Discover, test, and launch with ease.
           </p>
             
-{/*           <div className="flex flex-col sm:flex-row gap-4 justify-center">
+         <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="#explore"
+              href="https://demo.production.fyrii.ai/portal/torus/homepage/documentation"
               className="px-6 py-3 rounded-lg text-black bg-[#75ffff] font-semibold hover:bg-[#14262a] hover:text-[#75ffff] border-2 border-[#75ffff] hover:border-[#14262a] transition"
             >
               Explore APIs
             </a>
-            <a
+             
+       {/*       <a
               href="/get-api-key"
               className="px-6 py-3 rounded-lg text-black bg-[#75ffff] font-semibold hover:bg-[#14262a] hover:text-[#75ffff] border-2 border-[#75ffff] hover:border-[#14262a] transition"
             >
