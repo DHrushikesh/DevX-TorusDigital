@@ -10,8 +10,8 @@ function App() {
     <>
 {/*     <NavigationBar /> */}
     <HeroSection />
-    <CardsSection />
-    <Footer />
+{/*     <CardsSection /> */}
+{/*     <Footer /> */}
     </>
   )
 }
