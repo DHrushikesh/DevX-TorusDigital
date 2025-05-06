@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <NavigationBar />
+{/*     <NavigationBar /> */}
     <HeroSection />
     <CardsSection />
     <Footer />
